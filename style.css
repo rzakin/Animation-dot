@@ -29,7 +29,6 @@
   animation-duration: 0.8s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-out;
-  /* animation-direction: alternate;*/
 }
 
 @keyframes pink-dot {
